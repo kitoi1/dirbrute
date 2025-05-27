@@ -1,0 +1,15 @@
+wp-admin
+wp-content
+wp-includes
+wp-config.php
+wp-login.php
+xmlrpc.php
+wp-json
+wp-content/themes
+wp-content/plugins
+wp-content/uploads
+readme.html
+license.txt
+wp-trackback.php
+wp-comments-post.php
+EOF
