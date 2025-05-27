@@ -1,0 +1,10 @@
+admin
+login
+wp-admin
+wp-login
+backup
+config
+api
+test
+dev
+assets
