@@ -1,0 +1,3 @@
+wget https://github.com/danielmiessler/SecLists/raw/master/Discovery/Web-Content/common.txt
+wget https://github.com/danielmiessler/SecLists/raw/master/Discovery/Web-Content/big.txt
+wget https://github.com/danielmiessler/SecLists/raw/master/Discovery/Web-Content/directory-list-2.3-medium.txt
